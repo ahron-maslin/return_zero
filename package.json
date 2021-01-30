@@ -7,8 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Return"
+    "return",
+    "zero",
+    "npm"
   ],
   "author": "Aharon Maslin",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/mas-the-spaz/return_zero"
 }
