@@ -1,0 +1,14 @@
+{
+  "name": "return_zero",
+  "version": "1.0.0",
+  "description": "returns a zero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Return"
+  ],
+  "author": "Aharon Maslin",
+  "license": "ISC"
+}
