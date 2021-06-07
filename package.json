@@ -6,12 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahron-maslin/return_zero.git"
+  },
   "keywords": [
+    "npm",
     "return",
-    "zero",
-    "npm"
+    "zero"
   ],
   "author": "Aharon Maslin",
-  "license": "ISC",
-  "homepage": "https://github.com/ahron-maslin/return_zero"
+  "license": "MIT",
+  "homepage": "https://github.com/ahron-maslin/return_zero#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ahron-maslin"
+  }
 }
