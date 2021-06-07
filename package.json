@@ -19,6 +19,6 @@
   "license": "MIT",
   "homepage": "https://github.com/ahron-maslin/return_zero#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ahron-maslin"
+    "registry": "https://npm.pkg.github.com/@ahron-maslin/return_zero"
   }
 }
