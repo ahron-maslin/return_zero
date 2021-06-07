@@ -1,5 +1,5 @@
 {
-  "name": "return_zero",
+  "name": "@ahron-maslin/return_zero",
   "version": "1.0.0",
   "description": "returns a zero.",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "return",
     "zero"
   ],
-  "author": "Aharon Maslin",
+  "author": "Ahron Maslin",
   "license": "MIT",
   "homepage": "https://github.com/ahron-maslin/return_zero#readme",
   "publishConfig": {
