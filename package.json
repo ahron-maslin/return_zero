@@ -4,7 +4,7 @@
   "description": "returns a zero.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ahron-maslin/return_zero#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ahron-maslin/return_zero"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
   }
 }
