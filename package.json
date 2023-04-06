@@ -1,6 +1,6 @@
 {
   "name": "return_zero",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "returns a zero. that's it!",
   "main": "index.js",
   "scripts": {
